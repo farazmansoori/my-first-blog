@@ -25,8 +25,8 @@ SECRET_KEY = '4)y1ivcoz-v#&(b1p+kjr%eaw_xi#om4%*1q0rym2f#s79ma#r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = ['127.0.0.1']
 
 # Fter hosted on live server
 # ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
